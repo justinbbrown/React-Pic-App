@@ -6,7 +6,7 @@ export default axios.create({
 
   headers: {
     Authorization:
-      "Client-ID e0a71483531a1cd60ef5169f205e7ab8f68c624c073e253e21726ab3af94e261"
+      "Client-ID THIS IS YOUR ACCESS KEY FROM UNSPLASH"
   }
 });
 
